@@ -26,7 +26,7 @@
 The paper as well as the full dataset will be released after the review process completing.
 
 ## License
-The source code is released under [GPLv3](http://www.gnu.org/licenses/) license.
+[GPLv3](http://www.gnu.org/licenses/) license.
 
 ## Submitting Statement
 As part of the attached materials, we proceed with caution to not break the double-blind review process. To make the hosting site and the linked materials do not reveal the identity and affiliation of the authors, we utilize a new account for the submission of materials. And all these materials are submitted before the supplementary material deadline.
